@@ -2,7 +2,7 @@
 
 Let's code some JavaScript!
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
